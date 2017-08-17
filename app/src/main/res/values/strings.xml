@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lovelive</string>
+    <string name="tab_menu_alert">tab_menu_alert</string>
+    <string name="tab_menu_profile">tab_menu_profile</string>
+    <string name="tab_menu_pay">tab_menu_pay</string>
+    <string name="tab_menu_setting">setting</string>
+</resources>
